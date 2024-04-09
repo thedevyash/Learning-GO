@@ -1,0 +1,21 @@
+// bool represents a boolean value, which can be either true or false.
+
+// string represents a sequence of characters. It is used to store and manipulate text.
+
+// int is a signed integer type that can hold whole numbers. It has different sizes: int8, int16, int32, and int64.
+
+// uint is an unsigned integer type that can hold whole numbers. It has different sizes: uint8, uint16, uint32, and uint64.
+
+// uintptr is an unsigned integer type that is large enough to hold the bit pattern of any pointer.
+
+// byte is an alias for uint8. It represents a single byte of data.
+
+// rune is an alias for int32. It represents a Unicode code point, which is a unique number assigned to each character in the Unicode standard.
+
+// float32 is a floating-point type that can hold decimal numbers with single precision.
+
+// float64 is a floating-point type that can hold decimal numbers with double precision.
+
+// complex64 is a complex number type with float32 real and imaginary parts.
+
+// complex128 is a complex number type with float64 real and imaginary parts.
