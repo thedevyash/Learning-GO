@@ -19,3 +19,8 @@
 // complex64 is a complex number type with float32 real and imaginary parts.
 
 // complex128 is a complex number type with float64 real and imaginary parts.
+
+
+    0 for numeric types,
+    false for the boolean type, and
+    "" (the empty string) for strings.
